@@ -1,0 +1,10 @@
+# check the even or odd by ternery operator
+number = int(input("Enter the number : "))
+check="even " if number%2==0 else "odd "
+print("the number is  ", check)
+
+# three number as input and find the largest number
+
+
+
+
